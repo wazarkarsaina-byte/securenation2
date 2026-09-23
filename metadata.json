@@ -1,0 +1,6 @@
+{
+  "name": "SECURENATION",
+  "description": "Building a Safer Digital Nation - BCA Cybersecurity and Digital Trust Platform with incident reporting, threat intelligence, cyber quizzes, and interactive learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
